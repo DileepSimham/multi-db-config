@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: sb-multi-db-config
+  datasource:
+    ds1:
+      password: Rgukt@483
+      url: jdbc:mysql://localhost:3306/db1
+      username: root
+    ds2:
+      password: Rgukt@483
+      url: jdbc:mysql://localhost:3306/db2
+      username: root
+    ds3:
+      password: Rgukt@483
+      url: jdbc:mysql://localhost:3306/db3
+      username: root
+    ds4:
+      password: Rgukt@483
+      url: jdbc:mysql://localhost:3306/db4
+      username: root
+    ds5:
+      password: Rgukt@483
+      url: jdbc:mysql://localhost:3306/db5
+      username: root
